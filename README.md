@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stanislav
 - 👀 I’m interested in Modular blockchains
-- 🌱 I’m currently learning difference between modular and monolithic blockchains
-- 💞️ I’m looking to collaborate on with crypto projects who needs community manager 
+ 
 - 📫 How to reach me cryptotitusko@gmail.com
 
 <!---
